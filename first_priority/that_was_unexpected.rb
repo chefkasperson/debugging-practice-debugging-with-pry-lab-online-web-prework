@@ -18,7 +18,7 @@ class Person
   def likes_candy?
     true
   end
-binding.pry
+
   def ballin_candy_lover?
     if @candy_lover == true
       "Aw sweet, this cat loves them some candy!"
